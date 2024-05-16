@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1085362594305",
+    "project_id": "fir-test-f5faa",
+    "storage_bucket": "fir-test-f5faa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1085362594305:android:8800b537061f4c6987d600",
+        "android_client_info": {
+          "package_name": "com.example.jogo_da_memoria"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUvoFvvPDOCfdB2Bl85mVj5y5M1wLPnt0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
